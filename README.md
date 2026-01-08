@@ -5,13 +5,13 @@
 ### Demos
 - [ ] gtk-demo-application
 - [ ] application
-- [ ] assistant
+- [x] assistant
 - [ ] benchmark - fishbowl
 - [ ] benchmark - frames
 - [ ] benchmark - scrolling
 - [ ] benchmark - themes
 - [ ] builder
-- [ ] clipboard
+- [x] clipboard
 - [ ] combo box
 - [ ] constraints - simple
 - [ ] constraints - interactive
@@ -32,7 +32,7 @@
 - [ ] fixed layout - transformations
 - [ ] flow box
 - [ ] gestures
-- [ ] header bar
+- [x] header bar
 - [ ] icon view - basics
 - [ ] icon view - editing and drag-and-drop
 - [ ] image scaling
@@ -41,12 +41,12 @@
 - [ ] layout manager - transition
 - [ ] layout manager - transformation
 - [ ] links
-- [ ] list box - complex
-- [ ] list box - controls
+- [x] list box - complex
+- [x] list box - controls
 - [ ] lists - application launcher
 - [ ] lists - clocks
 - [ ] lists - colors
-- [ ] lists - file browser
+- [-] lists - file browser
 - [ ] lists - minesweeper
 - [ ] lists - selections
 - [ ] lists - settings
@@ -92,8 +92,8 @@
 - [ ] sliding puzzle
 - [ ] spin buttons
 - [ ] spinner
-- [ ] stack
-- [ ] stack sidebar
+- [x] stack
+- [x] stack sidebar
 - [ ] text view - hypertext
 - [ ] text view - markup
 - [ ] text view - tabs
