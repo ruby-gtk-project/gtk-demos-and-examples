@@ -46,7 +46,7 @@
 - [ ] lists - application launcher
 - [ ] lists - clocks
 - [ ] lists - colors
-- [-] lists - file browser
+- [ ] lists - file browser
 - [ ] lists - minesweeper
 - [ ] lists - selections
 - [ ] lists - settings
