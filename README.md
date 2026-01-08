@@ -1,0 +1,128 @@
+# Ruby GTK demos & examples
+
+## Progress
+
+### Demos
+- [ ] gtk-demo-application
+- [ ] application
+- [ ] assistant
+- [ ] benchmark - fishbowl
+- [ ] benchmark - frames
+- [ ] benchmark - scrolling
+- [ ] benchmark - themes
+- [ ] builder
+- [ ] clipboard
+- [ ] combo box
+- [ ] constraints - simple
+- [ ] constraints - interactive
+- [ ] constraints - VFL
+- [ ] constraints - builder
+- [ ] cursors
+- [ ] dialogs
+- [ ] drag-and-drop
+- [ ] drawing area
+- [ ] entry - completion
+- [ ] entry - undo and redo
+- [ ] entry - password
+- [ ] entry - type to search
+- [ ] entry - tagged entry
+- [ ] error states
+- [ ] expander
+- [ ] fixed layout - cube
+- [ ] fixed layout - transformations
+- [ ] flow box
+- [ ] gestures
+- [ ] header bar
+- [ ] icon view - basics
+- [ ] icon view - editing and drag-and-drop
+- [ ] image scaling
+- [ ] images
+- [ ] info bars
+- [ ] layout manager - transition
+- [ ] layout manager - transformation
+- [ ] links
+- [ ] list box - complex
+- [ ] list box - controls
+- [ ] lists - application launcher
+- [ ] lists - clocks
+- [ ] lists - colors
+- [ ] lists - file browser
+- [ ] lists - minesweeper
+- [ ] lists - selections
+- [ ] lists - settings
+- [ ] lists - alternative settings
+- [ ] lists - characters
+- [ ] lists - weather
+- [ ] lists - words
+- [ ] masking
+- [ ] openGL - gears
+- [ ] openGL - openGL area
+- [ ] openGL - shadertoy
+- [ ] overlay - interactive
+- [ ] overlay - decorative
+- [ ] overlay - transparent
+- [ ] paint
+- [ ] paintable - simple
+- [ ] paintable - animated
+- [ ] paintable - emblems
+- [ ] paintable - media stream
+- [ ] paintable - symbolic
+- [ ] paintable - svg
+- [ ] pained widgets
+- [ ] pango - font rendering
+- [ ] pango - font explorer
+- [ ] pango - rotated text
+- [ ] pango - text mark
+- [ ] pango - text mask
+- [ ] path - fill and stroke
+- [ ] path - maze
+- [ ] path - spinner
+- [ ] path - text
+- [ ] path - walk
+- [ ] peg solitaire
+- [ ] pickers and launchers
+- [ ] printing - printing
+- [ ] printing - page setup
+- [ ] read more
+- [ ] revealer
+- [ ] scales
+- [ ] shortcuts
+- [ ] shortcuts window
+- [ ] size groups
+- [ ] sliding puzzle
+- [ ] spin buttons
+- [ ] spinner
+- [ ] stack
+- [ ] stack sidebar
+- [ ] text view - hypertext
+- [ ] text view - markup
+- [ ] text view - tabs
+- [ ] text view - undo and redo
+- [ ] text view - multiple views
+- [ ] text view - automatic scrolling
+- [ ] theming - css accordion
+- [ ] theming - css basics
+- [ ] theming - css blend modes
+- [ ] theming - multiple backgrounds
+- [ ] theming - animated backgrounds
+- [ ] theming - shadows
+- [ ] theming - style classes
+- [ ] tree view - editable cells
+- [ ] tree view - filter model
+- [ ] tree view - list store
+- [ ] tree view - tree store
+- [ ] video player
+
+### Examples
+
+- [ ] hello world
+- [ ] bloatpad
+- [ ] application 1
+- [ ] application 2
+- [ ] application 3
+- [ ] application 4
+- [ ] application 5
+- [ ] application 6
+- [ ] application 7
+- [ ] application 8
+- [ ] application 9
