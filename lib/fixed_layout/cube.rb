@@ -81,11 +81,14 @@ class FixedCubeDemo
                   .perspective(FACE_SIZE * 3.0)
                   .rotate_3d(-30.0, x_axis)
                   .rotate_3d(135.0, y_axis)
-                  .translate_3d(Graphene::Point3D.new(0, 0, -FACE_SIZE / 6.0))
+                  .translate_3d(point3d(0, 0, -FACE_SIZE / 6.0))
                   .rotate_3d(angle, axis == :x ? x_axis : y_axis)
-                  .translate_3d(Graphene::Point3D.new(0, 0, half))
-                  .translate_3d(Graphene::Point3D.new(-half, -half, 0))
+                  .translate_3d(point3d(0, 0, half))
+                  .translate_3d(point3d(-half, -half, 0))
   end
+
+  # Graphene::Point3D takes no constructor arguments in the Ruby bindings.
+  def point3d(x, y, z) = Graphene::Point3D.new.tap { |point| point.init(x, y, z) }
 
   def x_axis = @x_axis ||= Graphene::Vec3.x_axis
   def y_axis = @y_axis ||= Graphene::Vec3.y_axis

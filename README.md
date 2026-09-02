@@ -10,70 +10,70 @@
 - [ ] benchmark - frames
 - [ ] benchmark - scrolling
 - [ ] benchmark - themes
-- [ ] builder
+- [x] builder
 - [x] clipboard
 - [ ] combo box
-- [ ] constraints - simple
-- [ ] constraints - interactive
-- [ ] constraints - VFL
-- [ ] constraints - builder
-- [ ] cursors
-- [ ] dialogs
+- [x] constraints - simple
+- [x] constraints - interactive
+- [x] constraints - VFL
+- [x] constraints - builder
+- [x] cursors
+- [x] dialogs
 - [ ] drag-and-drop
-- [ ] drawing area
-- [ ] entry - completion
-- [ ] entry - undo and redo
-- [ ] entry - password
-- [ ] entry - type to search
+- [x] drawing area
+- [x] entry - completion
+- [x] entry - undo and redo
+- [x] entry - password
+- [x] entry - type to search
 - [ ] entry - tagged entry
-- [ ] error states
-- [ ] expander
-- [ ] fixed layout - cube
-- [ ] fixed layout - transformations
+- [x] error states
+- [x] expander
+- [x] fixed layout - cube
+- [x] fixed layout - transformations
 - [ ] flow box
-- [ ] gestures
+- [x] gestures
 - [x] header bar
 - [ ] icon view - basics
 - [ ] icon view - editing and drag-and-drop
 - [ ] image scaling
-- [ ] images
-- [ ] info bars
+- [x] images
+- [x] info bars
 - [ ] layout manager - transition
 - [ ] layout manager - transformation
-- [ ] links
+- [x] links
 - [x] list box - complex
 - [x] list box - controls
-- [ ] lists - application launcher
-- [ ] lists - clocks
+- [x] lists - application launcher
+- [x] lists - clocks
 - [ ] lists - colors
-- [ ] lists - file browser
+- [x] lists - file browser
 - [ ] lists - minesweeper
 - [ ] lists - selections
 - [ ] lists - settings
 - [ ] lists - alternative settings
 - [ ] lists - characters
 - [ ] lists - weather
-- [ ] lists - words
+- [x] lists - words
 - [ ] masking
 - [ ] openGL - gears
 - [ ] openGL - openGL area
 - [ ] openGL - shadertoy
-- [ ] overlay - interactive
-- [ ] overlay - decorative
-- [ ] overlay - transparent
+- [x] overlay - interactive
+- [x] overlay - decorative
+- [x] overlay - transparent
 - [ ] paint
-- [ ] paintable - simple
-- [ ] paintable - animated
+- [x] paintable - simple
+- [x] paintable - animated
 - [ ] paintable - emblems
 - [ ] paintable - media stream
 - [ ] paintable - symbolic
 - [ ] paintable - svg
-- [ ] pained widgets
+- [x] pained widgets
 - [ ] pango - font rendering
 - [ ] pango - font explorer
-- [ ] pango - rotated text
+- [x] pango - rotated text
 - [ ] pango - text mark
-- [ ] pango - text mask
+- [x] pango - text mask
 - [ ] path - fill and stroke
 - [ ] path - maze
 - [ ] path - spinner
@@ -83,34 +83,34 @@
 - [ ] pickers and launchers
 - [ ] printing - printing
 - [ ] printing - page setup
-- [ ] read more
-- [ ] revealer
-- [ ] scales
-- [ ] shortcuts
+- [x] read more
+- [x] revealer
+- [x] scales
+- [x] shortcuts
 - [ ] shortcuts window
-- [ ] size groups
+- [x] size groups
 - [ ] sliding puzzle
-- [ ] spin buttons
-- [ ] spinner
+- [x] spin buttons
+- [x] spinner
 - [x] stack
 - [x] stack sidebar
-- [ ] text view - hypertext
-- [ ] text view - markup
-- [ ] text view - tabs
-- [ ] text view - undo and redo
-- [ ] text view - multiple views
-- [ ] text view - automatic scrolling
-- [ ] theming - css accordion
-- [ ] theming - css basics
-- [ ] theming - css blend modes
-- [ ] theming - multiple backgrounds
-- [ ] theming - animated backgrounds
-- [ ] theming - shadows
-- [ ] theming - style classes
-- [ ] tree view - editable cells
-- [ ] tree view - filter model
-- [ ] tree view - list store
-- [ ] tree view - tree store
+- [x] text view - hypertext
+- [x] text view - markup
+- [x] text view - tabs
+- [x] text view - undo and redo
+- [x] text view - multiple views
+- [x] text view - automatic scrolling
+- [x] theming - css accordion
+- [x] theming - css basics
+- [x] theming - css blend modes
+- [x] theming - multiple backgrounds
+- [x] theming - animated backgrounds
+- [x] theming - shadows
+- [x] theming - style classes
+- [x] tree view - editable cells
+- [x] tree view - filter model
+- [x] tree view - list store
+- [x] tree view - tree store
 - [ ] video player
 
 ### Examples
