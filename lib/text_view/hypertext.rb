@@ -189,7 +189,7 @@ class HypertextDemo
   def end_iter = buffer.get_iter_at(offset: 0)
 
   def follow_link_at_cursor
-    follow_link(buffer.get_iter_at(mark: buffer.get_insert))
+    follow_link(buffer.get_iter_at(mark: buffer.get_mark('insert')))
   end
 
   def follow_link_at(gesture, x, y)

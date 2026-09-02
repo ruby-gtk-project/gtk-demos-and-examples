@@ -1,5 +1,11 @@
 # Ruby GTK demos & examples
 
+Ruby ports of the GTK4 demos, written in the declarative memoized-widget style.
+Each demo is a standalone program: `ruby lib/<name>.rb`.
+
+Quirks of the Ruby bindings that these ports had to work around are collected
+in [FINDINGS.md](FINDINGS.md).
+
 ## Progress
 
 ### Demos
