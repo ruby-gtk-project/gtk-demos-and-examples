@@ -107,7 +107,8 @@ class InfoBarsDemo
       if response.to_i == close
         bar.revealed = false
       else
-        Gtk::AlertDialog.new('You clicked a button on an info bar').tap do |dialog|
+        Gtk::AlertDialog.new.tap do |dialog|
+          dialog.message = 'You clicked a button on an info bar'
           dialog.detail = "Your response has been #{response.to_i}"
           dialog.show(window)
         end

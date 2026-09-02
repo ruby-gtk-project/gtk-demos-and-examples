@@ -50,7 +50,8 @@ class LinksDemo
   private
 
   def show_keynav_dialog
-    Gtk::AlertDialog.new('Keyboard navigation').tap do |dialog|
+    Gtk::AlertDialog.new.tap do |dialog|
+      dialog.message = 'Keyboard navigation'
       dialog.detail = KEYNAV_DETAIL
       dialog.show(window)
     end
