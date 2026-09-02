@@ -64,10 +64,10 @@
 - [ ] paint
 - [x] paintable - simple
 - [x] paintable - animated
-- [ ] paintable - emblems
+- [x] paintable - emblems
 - [ ] paintable - media stream
-- [ ] paintable - symbolic
-- [ ] paintable - svg
+- [x] paintable - symbolic
+- [x] paintable - svg
 - [x] pained widgets
 - [ ] pango - font rendering
 - [ ] pango - font explorer
