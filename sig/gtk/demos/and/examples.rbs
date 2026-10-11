@@ -1,0 +1,12 @@
+module Gtk
+  module Demos
+    module And
+      module Examples
+        module Version
+          VERSION: String
+        end
+        VERSION: String
+      end
+    end
+  end
+end
